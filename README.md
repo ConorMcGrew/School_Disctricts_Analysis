@@ -21,4 +21,9 @@ We were tasked with helping Maria to analyze math and reading standarized test d
   - Scores by school size
   - Scores by school type
 
-## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+After removal of the Thomas High 9th Grade Results:
+1. Thomas High's overall standing was 2nd best of all the schools.
+2. It decreased the district overall passing percentage of the district by nearly 0.3%
+3. The budget allotment per student at Thomas High increased substantially.
+4. Thomas High became the 2nd best performing charter school, and better performing than *any* district school.
