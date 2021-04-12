@@ -1,4 +1,4 @@
-# School_Disctricts_Analysis
+# School_Districts_Analysis
 
 ## Overview
 
