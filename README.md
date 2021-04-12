@@ -1,5 +1,7 @@
 # School_Disctricts_Analysis
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis
+
+We were tasked with helping Maria to analyze math and reading standarized test data. The data was sourced from a variety of school disctricts, and it is used to show trends in performance and budgets. This will eventually be used by the board of education and superintendent to inform future budgetary decisions.  
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
